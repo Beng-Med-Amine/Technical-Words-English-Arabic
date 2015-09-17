@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+	<alphab id="a" >
+		<word name="asynchronous">
+			<tran>غير متزامن</tran>
+		</word>
+	</alphab>
+	<alphab id="b" >
+	</alphab>
+	<alphab id="c" >
+	</alphab>
+	<alphab id="d" >
+	</alphab>
+	<alphab id="e" >
+	</alphab>
+	<alphab id="f" >
+	</alphab>
+	<alphab id="g" >
+	</alphab>
+	<alphab id="h" >
+	</alphab>
+	<alphab id="i" >
+	</alphab>
+	<alphab id="j" >
+	</alphab>
+	<alphab id="k" >
+	</alphab>
+	<alphab id="l" >
+	</alphab>
+	<alphab id="m" >
+		<word name="matrix">
+			<tran>مصفوفة</tran>
+		</word>
+	</alphab>
+	<alphab id="n" >
+	</alphab>
+	<alphab id="o" >
+	</alphab>
+	<alphab id="p" >
+	</alphab>
+	<alphab id="q" >
+	</alphab>
+	<alphab id="r" >
+	</alphab>
+	<alphab id="s" >
+		<word name="system">
+			<tran> نظام </tran>
+		</word>
+		<word name="synchronous">
+			<tran>متزامن</tran>
+		</word>
+	</alphab>
+	<alphab id="t" >
+	</alphab>
+	<alphab id="u" >
+	</alphab>
+	<alphab id="v" >
+	</alphab>
+	<alphab id="w" >
+	</alphab>
+	<alphab id="y" >
+	</alphab>
+	<alphab id="z" >
+	</alphab>
+</words>
