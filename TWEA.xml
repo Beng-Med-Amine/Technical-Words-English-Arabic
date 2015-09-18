@@ -8,8 +8,14 @@
 	<alphab id="b" >
 	</alphab>
 	<alphab id="c" >
+		<word name="client">
+			<tran>عميل</tran>
+		</word>
 	</alphab>
 	<alphab id="d" >
+		<word name="design">
+			<tran>تصميم</tran>
+		</word>
 	</alphab>
 	<alphab id="e" >
 	</alphab>
@@ -20,12 +26,18 @@
 	<alphab id="h" >
 	</alphab>
 	<alphab id="i" >
+		<word name="image">
+			<tran>صورة</tran>
+		</word>
 	</alphab>
 	<alphab id="j" >
 	</alphab>
 	<alphab id="k" >
 	</alphab>
 	<alphab id="l" >
+		<word name="link">
+			<tran>رابط</tran>
+		</word>
 	</alphab>
 	<alphab id="m" >
 		<word name="matrix">
@@ -35,6 +47,9 @@
 	<alphab id="n" >
 	</alphab>
 	<alphab id="o" >
+		<word name="operating system">
+			<tran>نظام تشغيل</tran>
+		</word>
 	</alphab>
 	<alphab id="p" >
 	</alphab>
@@ -43,9 +58,19 @@
 	<alphab id="r" >
 	</alphab>
 	<alphab id="s" >
+		<word name="service">
+			<tran>خدمة</tran>
+		</word>
+		<word name="server">
+			<tran>خادم</tran>
+		</word>
+		<word name="structure">
+			<tran>هيكل</tran>
+		</word>
 		<word name="system">
 			<tran> نظام </tran>
 		</word>
+
 		<word name="synchronous">
 			<tran>متزامن</tran>
 		</word>
